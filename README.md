@@ -1,0 +1,8 @@
+# LC-Waikiki-Project
+Interactive transfer of the products of LC WAIKIKI company from 2d environment to 3d environment.
+In the project we developed for the LC Waikiki company, we transitioned the company's products from a 2D environment to a 3D environment. 
+The 3D designs of the products were made with Blender. 
+This project is a demo. The main project includes a more detailed UI panel, more products, and a higher quality 3D environment.
+![L1](https://github.com/yigitgltkn/LC-Waikiki-Project/assets/117045227/f7754858-8f1b-4786-89e5-0d19cce5ca4c)
+![Uploading L2.png…]()
+![Uploading L3.png…]()
